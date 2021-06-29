@@ -29,4 +29,6 @@
 
 ## Python Fundamentals for TinyML
 
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb) [Python Crash Course](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb) [Python Crash Course](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2302%20-%20Introduction%20to%20pandas.ipynb) [Introduction to Pandas](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2302%20-%20Introduction%20to%20pandas.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2303%20-%20Exploring%20Data%20with%20pandas.ipynb) [Exploring data with Pandas](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2303%20-%20Exploring%20Data%20with%20pandas.ipynb)
