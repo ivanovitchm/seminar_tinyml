@@ -29,4 +29,4 @@
 
 ## Python Fundamentals for TinyML
 
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb) [Network Elements - NetworkX](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb) [Python Crash Course](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2301%20-%20Python%20crash%20course.ipynb)
