@@ -19,3 +19,10 @@
 - TinyML Fundamentals [[Video]](https://www.loom.com/share/6e0e8e8de0e946b389acb8fee892d44c)
 - Why the future of ML is tiny and bright? [[Video]](https://www.loom.com/share/556cd84821964ba481d6c22e4f61427a)
 - How do we enable TinyML? [[Video]](https://www.loom.com/share/2aab8b80908d40b88f078355bade02f0)
+
+## TinyML Challenges [[Slide]](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/ChallengesTinyML.pdf)
+
+- Challenges from a hardware perspective [[Video]](https://www.loom.com/share/3611dffa4baf4807b79cb99b82662b86)
+- Challenges from a software perspective [[Video]](https://www.loom.com/share/d6ae3f5c6b114b06940100bb6ccfe333)
+- Challenges from ML perspective [[Video]](https://www.loom.com/share/b4bfdae510ce4f9691c224e46718670b)
+- Challenges from ML pipeline [[Video]](https://www.loom.com/share/14397eb5aed1435093b41d206f1759e1)
