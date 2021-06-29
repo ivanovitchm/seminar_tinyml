@@ -26,3 +26,7 @@
 - Challenges from a software perspective [[Video]](https://www.loom.com/share/d6ae3f5c6b114b06940100bb6ccfe333)
 - Challenges from ML perspective [[Video]](https://www.loom.com/share/b4bfdae510ce4f9691c224e46718670b)
 - Challenges from ML pipeline [[Video]](https://www.loom.com/share/14397eb5aed1435093b41d206f1759e1)
+
+## Python Fundamentals for TinyML
+
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb) [Network Elements - NetworkX](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb)
