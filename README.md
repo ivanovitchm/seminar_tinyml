@@ -7,6 +7,10 @@
 
 - :books: Pete Warden and Daniel Situnayake. TinyML Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers [[Link]](https://tinymlbook.com/)
 - :school: Vijay Janapa Reddi; Laurence Moroney; Pete Warden. Professional Certificate in Tiny Machine Learning [[Link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- :page_with_curl: Signoretti, G.; Silva, M.; Andrade, P.; Silva, I.; Sisinni, E.; Ferrari, P. An Evolving TinyML Compression Algorithm for IoT Environments Based on Data Eccentricity. Sensors 2021, 21, 4153. [[Link]](https://www.mdpi.com/1424-8220/21/12/4153)
+- :page_with_curl: Andrade, P.; Silva, I; Signoretti, G.; Silva, M.; Dias, J.; Marques, L.; Costa, D. An Unsupervised TinyML Approach Applied for Pavement Anomalies Detection Under the Internet of Intelligent Vehicles. Metroind40iot, Roma, 2021. [[Link]](https://www.metroind40iot.org/MetroInd2021_FinalProgram_v3.pdf)
+- :page_with_curl: Silva, M.; Vieira, E.; Signoretti, G.; Silva, I.; Silva, D.; Ferrari, P. A Customer Feedback Platform for Vehicle Manufacturing Compliant with Industry 4.0 Vision. Sensors 2018, 18, 3298. [[Link]](https://www.mdpi.com/1424-8220/18/10/3298)
+- :mega: This is a list of interesting papers, projects, articles and talks about TinyML [[Link]](https://github.com/gigwegbe/tinyml-papers-and-projects)
 
 ## The Internet of Intelligent Vehicles and Their Applicatons [[Slide]](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/connected_vehicles.pdf)
 
