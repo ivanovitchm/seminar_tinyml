@@ -3,6 +3,12 @@
 
 # Seminar for DRII Ph.D. Students
 
+## References
+
+:books: Pete Warden and Daniel Situnayake. TinyML Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers [[Link]](https://tinymlbook.com/)
+
+:school: Vijay Janapa Reddi; Laurence Moroney; Pete Warden. Professional Certificate in Tiny Machine Learning [[Link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+
 ## The Internet of Intelligent Vehicles and Their Applicatons [[Slide]](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/connected_vehicles.pdf)
 
 - Introduction & Presentation [[Video]](https://www.loom.com/share/69de1084f06e476cba061605fb7a9f76)
