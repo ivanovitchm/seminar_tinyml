@@ -56,4 +56,15 @@
 - AI lifecycle [[Video]](https://www.loom.com/share/3a0662a0b66941d1acbe46739d4d935e)
 - ML workflow [[Video]](https://www.loom.com/share/c82234303d19447e85512f545ca46a72) 
 
+### Machine Learning on Mobile and Edge IoT Devices
+
+- Introduction to TensorFlow Lite
+- Using the TFLite Converter
+- Running Models with TFLite
+- TFLite Optimizations and Quantization
+- Quantization Aware Training
+- Post Training Quantization (PTQ)
+- Quantization Aware Training (QAT)
+- Inference Engine: TF vs. TFLite
+
 
