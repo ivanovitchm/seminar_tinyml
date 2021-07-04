@@ -48,5 +48,11 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2307%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb) [TensorFlow 2.x + Keras Crash Course](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2307%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2308%20-%20Introduction%20to%20TF.ipynb) [Introduction to TF](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/Notebooks/Task%20%2308%20-%20Introduction%20to%20TF.ipynb)
 
+## Applications of TinyML
+
+### AI Lifecycle and ML Workflow [[Slide]](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/AI_Lifecycle_and ML_Workflow.pdf)
+
+- AI lifecycle [[Video]](https://www.loom.com/share/3a0662a0b66941d1acbe46739d4d935e)
+- ML workflow [[Video]](https://www.loom.com/share/c82234303d19447e85512f545ca46a72) 
 
 
