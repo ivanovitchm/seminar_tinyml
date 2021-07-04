@@ -51,7 +51,7 @@
 ## Applications of TinyML
 
 
-### AI Lifecycle and ML Workflow [[Slide]](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/AI_Lifecycle_and ML_Workflow.pdf)
+### AI Lifecycle and ML Workflow [[Slide]](https://github.com/ivanovitchm/seminar_tinyml/blob/main/resources/AI_wflow.pdf)
 
 - AI lifecycle [[Video]](https://www.loom.com/share/3a0662a0b66941d1acbe46739d4d935e)
 - ML workflow [[Video]](https://www.loom.com/share/c82234303d19447e85512f545ca46a72) 
