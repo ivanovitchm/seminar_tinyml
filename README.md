@@ -1,4 +1,4 @@
-<center><img width="800" src="https://github.com/ivanovitchm/datastructure/blob/main/images/ct.jpeg"></center>
+<center><img width="1200" src="https://github.com/ivanovitchm/datastructure/blob/main/images/ct.jpeg"></center>
 <center>
 
 # Seminar for DRII Ph.D. Students
